@@ -1,11 +1,6 @@
 #Banana Speak
 
- 
-
-
-
-
-## Overview
+ ## Overview
 
 Bananaa Speak is an API Translator App that allows you to translate text into the adorable and humorous "Minion Language." Inspired by the cute and mischievous Minions from the Despicable Me movie franchise, this API brings fun and excitement to language translation.
 
