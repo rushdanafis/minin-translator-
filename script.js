@@ -15,6 +15,6 @@ function constructUrl(text){
     .then(response=>response.json())
     .then(response=>{
 
-        output.innerText=response.content.translated
+        output.innerText=response.contents.translated
     })
 })
