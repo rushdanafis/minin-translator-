@@ -14,6 +14,7 @@ function constructUrl(text){
     fetch(constructUrl(input.value))
     .then(response=>response.json())
     .then(response=>{
+
         output.innerText=response.content.translated
     })
 })
